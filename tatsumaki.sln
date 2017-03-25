@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tatsumaki.CSharp.Plugins", "tatsumaki.CSharp.Plugins.csproj", "{E36EB843-1332-4B7F-8DF4-683662F697DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tatsumaki.CSharp", "tatsumaki.CSharp.csproj", "{31406348-AFC5-8ABD-1909-623D20F85A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tatsumaki.CSharp.Editor", "tatsumaki.CSharp.Editor.csproj", "{E37FE914-CE17-C663-DDE6-50CF2CCDA187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36EB843-1332-4B7F-8DF4-683662F697DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36EB843-1332-4B7F-8DF4-683662F697DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36EB843-1332-4B7F-8DF4-683662F697DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36EB843-1332-4B7F-8DF4-683662F697DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31406348-AFC5-8ABD-1909-623D20F85A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31406348-AFC5-8ABD-1909-623D20F85A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31406348-AFC5-8ABD-1909-623D20F85A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31406348-AFC5-8ABD-1909-623D20F85A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37FE914-CE17-C663-DDE6-50CF2CCDA187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37FE914-CE17-C663-DDE6-50CF2CCDA187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37FE914-CE17-C663-DDE6-50CF2CCDA187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37FE914-CE17-C663-DDE6-50CF2CCDA187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
